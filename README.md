@@ -11,8 +11,8 @@ Update .env with path to service account file
 
 
 
-![alt text](https://raw.githubusercontent.com/scriptburn/googlespeech/master/screenshot-login.png)
+![alt text](https://raw.githubusercontent.com/scriptburn/image-forensic-tool/master/screenshot-login.png)
 
-![alt text](https://raw.githubusercontent.com/scriptburn/googlespeech/master/screenshot-result.png)
+![alt text](https://raw.githubusercontent.com/scriptburn/image-forensic-tool/master/screenshot-result.png)
 
  
