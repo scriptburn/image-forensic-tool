@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/scriptburn/googlespeech/master/screenshot-home.png)
+![alt text](https://raw.githubusercontent.com/scriptburn/image-forensic-tool/master/screenshot-home.png)
 
 
 ### Installation
